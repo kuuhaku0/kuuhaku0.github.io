@@ -1,10 +1,12 @@
 name = 'Handarbeit'
 cname = ''
 keycapstype = 'GMK'
-designer = 'cocobrais'
+designer = ''
 profile = '1-1-2-3-4-4'
-time = '2019-06'
-colorcodes = ''
-platform = 'GH'
-link = 'https://geekhack.org/index.php?topic=101312.0'
-Base|155|||
+time = '2018-11'
+colorcodes = 'as shown in kits pictures'
+platform = 'ZF'
+link = 'http://www.zfrontier.com/m/4881'
+M|150||1098|
+R|120||898|
+Icon Modi & LED|65||476|
